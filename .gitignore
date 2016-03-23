@@ -2,3 +2,5 @@ Library/
 *.csproj
 *.userprefs
 *.sln
+.vs/UGUIProject/v14/.suo
+UpgradeLog.htm
